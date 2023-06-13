@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align='center'> My projects by like: </h1>
+<img src="https://media.giphy.com/virtual-backgrounds/previews/error.gif" width="100%" height="150"/>
 
+## littly know:
+<img src="https://skillicons.dev/icons?i=py,postgres,git,github,idea" /> 
+
+
+## Involved in
+- Competitive programming ✅
+- Telegram bots ✅
+
+### i'm still learning ![](https://media.tenor.com/zm2WjmF-MFIAAAAi/applecatrun-apple-cat.gif)
 <!--
 **sh1nez/sh1nez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
