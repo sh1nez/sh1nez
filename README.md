@@ -1,26 +1,21 @@
-<h1 align='center'> My projects by like: </h1>
-<img src="https://media.giphy.com/virtual-backgrounds/previews/error.gif" width="100%" height="150"/>
+18 y.o. Moscow 
+### Main languages
+1. python
+2. cpp 
+#### Also know 
+- bash, lua and c
 
-## littly know:
-<img src="https://skillicons.dev/icons?i=py,postgres,git,github,idea" /> 
+### Have experience in
 
+- Competitive programming (algorithms and data structures)
+- Telegram bots (async I/O)
+- DataBases (Sqlite, Postgres, MySQL and a bit redis )
+- Docker, git, deploy
 
-## Involved in
-- Competitive programming ✅
-- Telegram bots ✅
-
-### i'm still learning ![](https://media.tenor.com/zm2WjmF-MFIAAAAi/applecatrun-apple-cat.gif)
+In addition to this:
+- Use desktop gentoo, so know a lot about linux and a little about *BSD and build systems. 
+- Basic understanding of networks <br>
+ 
 <!--
-**sh1nez/sh1nez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://media.tenor.com/zm2WjmF-MFIAAAAi/applecatrun-apple-cat.gif)
 -->
