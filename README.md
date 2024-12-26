@@ -1,21 +1,10 @@
-18 y.o. Moscow 
-### Main languages
-1. python
-2. cpp 
-#### Also know 
-- bash, lua and c
+## 19 y.o. Moscow
 
-### Have experience in
+### FullStack, DeFi Ton/Sol
 
-- Competitive programming (algorithms and data structures)
-- Telegram bots (async I/O)
-- DataBases (Sqlite, Postgres, MySQL and a bit redis )
-- Docker, git, deploy
 
-In addition to this:
-- Use desktop gentoo, so know a lot about linux and a little about *BSD and build systems. 
-- Basic understanding of networks <br>
- 
-<!--
-![](https://media.tenor.com/zm2WjmF-MFIAAAAi/applecatrun-apple-cat.gif)
--->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1nez&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+
+
+I use arch btw [(dotfiles)](https://github.com/sh1nez/dotfiles)
