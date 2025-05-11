@@ -1,5 +1,6 @@
 ## 19 y.o. Moscow
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1nez&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+DevOps. 
+Open to new opportunities. 
 
-I use arch btw [(dotfiles)](https://github.com/sh1nez/dotfiles)
+I use MacOS+Nix btw [(dotfiles)](https://github.com/sh1nez/dotfiles)
